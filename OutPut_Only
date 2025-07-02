@@ -1,0 +1,25 @@
+The square root of a number
+is not the same 
+as the addition of the resuts of the individuals numbers square root result
+
+enter the number : 
+2785
+legnth of function is 4
+lenght is : 4
+main sqrt from math file is : 52.7731
+
+for @i 0 enter number with 3 zereos for number 2000
+ with sqrt as 44.72135955 and current sum 44.72135955
+
+for @i 1 enter number with 2 zereos for number 700
+ with sqrt as 26.45751311 and current sum 71.17887266
+
+for @i 2 enter number with 1 zereos for number 80
+ with sqrt as 8.94427191 and current sum 80.12314457
+
+for @i 3 enter number with 0 zereos for number 5
+ with sqrt as 2.236067977 and current sum 82.35921255
+
+for final sum : 82.35921255
+
+oi fores einai : 1.560628687 = 82.35921255/52.7731
