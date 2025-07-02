@@ -2,6 +2,7 @@ The square root of a number
 is not the same 
 as the addition of the resuts of the individuals numbers square root result
 
+//first example
 enter the number : 
 2785
 legnth of function is 4
@@ -23,3 +24,38 @@ for @i 3 enter number with 0 zereos for number 5
 for final sum : 82.35921255
 
 oi fores einai : 1.560628687 = 82.35921255/52.7731
+
+//second example
+enter the number : 
+78895621
+legnth of function is 8
+lenght is : 8
+main sqrt from math file is : 8882.32
+
+for @i 0 enter number with 7 zereos for number 70000000
+ with sqrt as 8366.600265 and current sum 8366.600265
+
+for @i 1 enter number with 6 zereos for number 8000000
+ with sqrt as 2828.427125 and current sum 11195.02739
+
+for @i 2 enter number with 5 zereos for number 800000
+ with sqrt as 894.427191 and current sum 12089.45458
+
+for @i 3 enter number with 4 zereos for number 90000
+ with sqrt as 300 and current sum 12389.45458
+
+for @i 4 enter number with 3 zereos for number 5000
+ with sqrt as 70.71067812 and current sum 12460.16526
+
+for @i 5 enter number with 2 zereos for number 600
+ with sqrt as 24.49489743 and current sum 12484.66016
+
+for @i 6 enter number with 1 zereos for number 20
+ with sqrt as 4.472135955 and current sum 12489.13229
+
+for @i 7 enter number with 0 zereos for number 1
+ with sqrt as 1 and current sum 12490.13229
+
+for final sum : 12490.13229
+
+oi fores einai : 1.406178939 
